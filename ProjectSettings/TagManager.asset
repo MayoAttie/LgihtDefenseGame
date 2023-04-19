@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - FxTemporaire
+  - level1_Mon
+  - SceneController
+  - SaveObjectZone
+  - EnemyField
+  - Wall
+  - level2_Mon
+  - level3_Mon
+  - level4_Mon
+  - level5_Mon
+  - Boss
+  - Cannon
+  - Shop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Monster
+  - invisible
+  - EnemyStartPos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
